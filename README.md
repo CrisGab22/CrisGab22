@@ -11,6 +11,11 @@ Domino algunas tecnologías orientadas al desarrollo web como:
 - Sequelize 
 
 Poseo experiencia con Bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB). Y estoy familiarizado a trabajar con algunos servicios online como: Firebase, Cloudinary
+
+# Información de Contacto
+- **Gmail:** cristhianverarivas22@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/cristhian-vera-rivas-a08598186/ 
+
 <!--
 **CrisGab22/CrisGab22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
